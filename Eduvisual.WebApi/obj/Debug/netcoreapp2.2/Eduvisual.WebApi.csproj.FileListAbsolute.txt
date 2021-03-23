@@ -1,0 +1,17 @@
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\bin\Debug\netcoreapp2.2\Eduvisual.WebApi.deps.json
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\bin\Debug\netcoreapp2.2\Eduvisual.WebApi.runtimeconfig.json
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\bin\Debug\netcoreapp2.2\Eduvisual.WebApi.runtimeconfig.dev.json
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\bin\Debug\netcoreapp2.2\Eduvisual.WebApi.dll
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\bin\Debug\netcoreapp2.2\Eduvisual.WebApi.pdb
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\obj\Debug\netcoreapp2.2\Eduvisual.WebApi.csprojAssemblyReference.cache
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\obj\Debug\netcoreapp2.2\Eduvisual.WebApi.AssemblyInfoInputs.cache
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\obj\Debug\netcoreapp2.2\Eduvisual.WebApi.AssemblyInfo.cs
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\obj\Debug\netcoreapp2.2\Eduvisual.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\obj\Debug\netcoreapp2.2\Eduvisual.WebApi.RazorAssemblyInfo.cache
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\obj\Debug\netcoreapp2.2\Eduvisual.WebApi.RazorAssemblyInfo.cs
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\obj\Debug\netcoreapp2.2\Eduvisual.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\obj\Debug\netcoreapp2.2\Eduvisual.WebApi.dll
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\obj\Debug\netcoreapp2.2\Eduvisual.WebApi.pdb
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.WebApi\obj\Debug\netcoreapp2.2\Eduvisual.WebApi.genruntimeconfig.cache
