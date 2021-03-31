@@ -716,7 +716,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://mto-ci01.minuto.int:800/nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -1,0 +1,12 @@
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\bin\Debug\netcoreapp2.2\Eduvisual.Application.deps.json
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\bin\Debug\netcoreapp2.2\Eduvisual.Application.dll
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\bin\Debug\netcoreapp2.2\Eduvisual.Application.pdb
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\obj\Debug\netcoreapp2.2\Eduvisual.Application.csprojAssemblyReference.cache
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\obj\Debug\netcoreapp2.2\Eduvisual.Application.AssemblyInfoInputs.cache
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\obj\Debug\netcoreapp2.2\Eduvisual.Application.AssemblyInfo.cs
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\obj\Debug\netcoreapp2.2\Eduvisual.Application.csproj.CoreCompileInputs.cache
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\obj\Debug\netcoreapp2.2\Eduvisual.Application.dll
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\obj\Debug\netcoreapp2.2\Eduvisual.Application.pdb
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\bin\Debug\netcoreapp2.2\Eduvisual.Domain.dll
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\bin\Debug\netcoreapp2.2\Eduvisual.Domain.pdb
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.Application\obj\Debug\netcoreapp2.2\Eduvisual.Application.csproj.CopyComplete

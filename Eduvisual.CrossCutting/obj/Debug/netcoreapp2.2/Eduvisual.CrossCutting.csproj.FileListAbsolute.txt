@@ -1,0 +1,16 @@
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\bin\Debug\netcoreapp2.2\Eduvisual.CrossCutting.deps.json
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\bin\Debug\netcoreapp2.2\Eduvisual.CrossCutting.dll
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\bin\Debug\netcoreapp2.2\Eduvisual.CrossCutting.pdb
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\obj\Debug\netcoreapp2.2\Eduvisual.CrossCutting.csprojAssemblyReference.cache
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\obj\Debug\netcoreapp2.2\Eduvisual.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\obj\Debug\netcoreapp2.2\Eduvisual.CrossCutting.AssemblyInfo.cs
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\obj\Debug\netcoreapp2.2\Eduvisual.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\obj\Debug\netcoreapp2.2\Eduvisual.CrossCutting.dll
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\obj\Debug\netcoreapp2.2\Eduvisual.CrossCutting.pdb
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\bin\Debug\netcoreapp2.2\Eduvisual.Application.dll
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\bin\Debug\netcoreapp2.2\Eduvisual.Domain.dll
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\bin\Debug\netcoreapp2.2\Eduvisual.Infrastructure.dll
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\bin\Debug\netcoreapp2.2\Eduvisual.Application.pdb
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\bin\Debug\netcoreapp2.2\Eduvisual.Infrastructure.pdb
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\bin\Debug\netcoreapp2.2\Eduvisual.Domain.pdb
+C:\Users\ano emangi\source\repos3\Fac\edu-visual\Eduvisual.CrossCutting\obj\Debug\netcoreapp2.2\Eduvisual.CrossCutting.csproj.CopyComplete

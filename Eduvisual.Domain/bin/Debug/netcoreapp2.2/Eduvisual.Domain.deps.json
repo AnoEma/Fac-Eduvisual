@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Eduvisual.Domain/1.0.0": {
+        "runtime": {
+          "Eduvisual.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eduvisual.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

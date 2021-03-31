@@ -1,6 +1,9 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using Eduvisual.CrossCutting;
+using Eduvisual.Infrastructure.Context;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Swashbuckle.AspNetCore.Swagger;
@@ -18,8 +21,11 @@ namespace Eduvisual.WebApi
 
         public void ConfigureServices(IServiceCollection services)
         {
+            var connection = Configuration["ConexaoSqlite:SqliteConnectionString"];
+            services.AddDbContext<EduvisualContext>(options => options.UseSqlite(connection));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             ConfigureSwaqqer(services);
+            RegisterServices(services);
         }
 
         public static void ConfigureSwaqqer(IServiceCollection services)
@@ -69,6 +75,11 @@ namespace Eduvisual.WebApi
 
             app.UseHttpsRedirection();
             app.UseMvc();
+        }
+
+        private void RegisterServices(IServiceCollection services)
+        {
+            NativeInjectorBootStrapper.RegisterServices(services);
         }
     }
 }
