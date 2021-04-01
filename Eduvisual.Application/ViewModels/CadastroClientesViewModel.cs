@@ -9,7 +9,5 @@ namespace Eduvisual.Application.ViewModels
         public DateTime DataNascimento { get; set; }
         public string Telefone { get; set; }
         public string Cargo { get; set; }
-        public bool Excluido { get; set; }
-        public DateTime DataDeCadastro { get; set; }
     }
 }

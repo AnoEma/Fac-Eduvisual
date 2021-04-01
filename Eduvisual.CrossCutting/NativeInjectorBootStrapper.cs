@@ -15,6 +15,8 @@ namespace Eduvisual.CrossCutting
             service.AddScoped<ICadastraClientesRepository, CadastraClientesRepository>();
             service.AddScoped<ILoginService, LoginService>();
             service.AddScoped<ILoginRepository, LoginRepository>();
+            service.AddScoped<IEquipamentoDeInformaticaRepository, EquipamentoDeInformaticaRepository>();
+            service.AddScoped<IEquipamentoInfoServices, EquipamentoInfoServices>();
             service.AddScoped<EduvisualContext>();
         }
     }
