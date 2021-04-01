@@ -10,6 +10,7 @@ namespace Eduvisual.Application.AutoMapper
         {
             CreateMap<CadastroClientes, CadastroClientesViewModel>();
             CreateMap<Usuario, UsuarioModel>();
+            CreateMap<EquipamentoDeInformatica, EquipamentoDeInformaticaModel>();
         }
     }
 }

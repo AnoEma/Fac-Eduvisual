@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Eduvisual.Domain\Eduvisual.Domain.csproj" />
+    <ProjectReference Include="..\Eduvisual.Infrastructure\Eduvisual.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
