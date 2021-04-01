@@ -9,6 +9,7 @@ namespace Eduvisual.Application.AutoMapper
         public DomainToViewModel()
         {
             CreateMap<CadastroClientes, CadastroClientesViewModel>();
+            CreateMap<Usuario, UsuarioModel>();
         }
     }
 }
